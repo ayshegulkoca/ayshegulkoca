@@ -8,18 +8,6 @@ I am a graduate of Computer Science and I am passionate about coding and explori
 🤔 Always open to learning new things and ready for collaboration.
 💬 You can reach me via [www.linkedin.com/in/ayshegulkoca](www.linkedin.com/in/ayshegulkoca).
 
-## Technologies I Use
-### Programming Languages
-<div align="center">
-<img src="https://img.shields.io/badge/HTML-9575CD?style=for-the-badge&logo=html&logoColor=white" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-7E57C2?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
-<img src="https://img.shields.io/badge/Java-673AB7?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/R-5E35B1?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-<img src="https://img.shields.io/badge/PHP-512DA8?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Python-4527A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-311B92?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-</div>
-
 ## Connect with Me
 <div align="center">
 <a href="https://www.linkedin.com/in/ayshegulkoca" target="_blank">
