@@ -20,17 +20,6 @@ I am a graduate of Computer Science and I am passionate about coding and explori
 <img src="https://img.shields.io/badge/JavaScript-311B92?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
 </div>
 
-### Databases
-<div align="center">
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</div>
-
-### Others
-<div align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
-
 ## Connect with Me
 <div align="center">
 <a href="https://www.linkedin.com/in/ayshegulkoca" target="_blank">
